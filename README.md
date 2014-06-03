@@ -154,7 +154,7 @@ Reveal.initialize({
 	previewLinks: false,
 
 	// Transition style
-	transition: 'default', // default/cube/page/concave/zoom/linear/fade/none
+	transition: 'zoom', // default/cube/page/concave/zoom/linear/fade/none
 
 	// Transition speed
 	transitionSpeed: 'default', // default/fast/slow
